@@ -30,7 +30,7 @@
       "-c",
       "reset_config none"
     ],
-    "openocd_target": "stm32f1x",
+    "openocd_target": "stm32f3x",
     "svd_path": "STM32F103xx.svd"
   },
   "frameworks": [
